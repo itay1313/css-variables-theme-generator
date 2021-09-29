@@ -1,5 +1,5 @@
 # AMAZING THEME GENERATOR TO CSS VARIABLES
-Created by <a href="https://itaycode.com">lme</a>, 
+Created by <a href="https://itaycode.com">me</a>, 
 
 In search of something like that, I was unable to find it, so I built it myself.
 Here's a theme generator for CSS variables.
